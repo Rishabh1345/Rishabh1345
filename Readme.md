@@ -22,6 +22,6 @@ Hey People's👋.<br>My Name Is Rishabh Shrivas. I am basically from Jabalpur. I
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Rishabh1345&icon=7&color=9)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=rishiii&label=Profile%20Views&color=9&icon=3&pretty=true)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
