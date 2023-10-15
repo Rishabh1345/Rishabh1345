@@ -2,8 +2,7 @@
 Hey People's👋.<br>My Name Is Rishabh Shrivas. I am basically from Jabalpur. I am a student of B.tech from Shri Ram Group Jabalpur🥀.<br>About my Certificates - I am certified in SQL from university of michigan also certified In tableau✨.<br>About My Technical Skills - I have good sound knowledge of programming languages like C, C++, SQL, DBMS, RDBMS🌠.<br>Others - Python, HTML, CSS, Tableau Etc⚡.<br>I am a programming enthusiasts😍.<br>I have some knowledge of Crypto, Artificial Intelligence, Machine Learning, Blockchain and so on✨.<br>My Projects⚡-<br>1. Solar Power Bank With Wireless Charging🌠.<br>2. This My Major Project And The Project Name Is Redar Detector System Using Arduino🥀.<br><br>
 
 
-## 🌱 Socials:
-
+# 🌱 Socials Media:
 <div align="left">
 <a href="https://github.com/Rishabh1345" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -53,6 +52,12 @@ Hey People's👋.<br>My Name Is Rishabh Shrivas. I am basically from Jabalpur. I
 
 </td><td valign="top" width="33%">
 
+![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white) 
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/rishabh_shrivas)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Am.rishhiii) 
+[![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/rishabh_shrivas) 
+[![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Rishabh_Shrivas) 
+[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/u/rishabh_official_34) 
 
 
 </td></tr></table></details>  
@@ -66,6 +71,9 @@ Hey People's👋.<br>My Name Is Rishabh Shrivas. I am basically from Jabalpur. I
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Rishabh1345&theme=midnight-purple&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rishabh1345&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+# 🏆 GitHub Trophies:
+![](https://github-profile-trophy.vercel.app/?username=R&theme=algolia&no-frame=false&no-bg=false&margin-w=4)
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
 
@@ -78,4 +86,3 @@ Hey People's👋.<br>My Name Is Rishabh Shrivas. I am basically from Jabalpur. I
 ---
 [![](https://visitcount.itsvg.in/api?id=rishiii&label=Profile%20Views&color=9&icon=3&pretty=true)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
